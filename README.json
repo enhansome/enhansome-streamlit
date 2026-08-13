@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "description": "The only way to truly understand how magical Streamlit is to play around with it. But if you need to be convinced first, then here is the 4 minute introduction to Streamlit!\nAfterwards you can go to the Streamlit docs to get started. You might also visit Awesome Streamlit docs.\n",
+      "items": [],
+      "title": "The Magic of Streamlit"
+    },
+    {
+      "description": "A curated list of awesome streamlit resources. Inspired by awesome-python and awesome-pandas.",
+      "items": [],
+      "title": "Awesome Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NLP Based App with Streamlit",
+          "description": "by Jesse E. Agbe (JCharis) (#App, #Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-09-08T07:16:35Z",
+            "owner": "Jcharis",
+            "repo": "Streamlit_DataScience_Apps",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to create and deploy data exploration web app easily using python",
+          "description": "(#App, #Code, #Deployment)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T19:17:40Z",
+            "owner": "robmarkcole",
+            "repo": "mqtt-camera-streamer",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaggle Mushrooms Dashboard",
+          "description": "(#App)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-04T08:22:58Z",
+            "owner": "pierpaolo28",
+            "repo": "Data-Visualization",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deploying web apps with Streamlit, Docker, and AWS",
+          "description": "by Collin Prather (#App, #Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T18:36:54Z",
+            "owner": "collinprather",
+            "repo": "streamlit-docker",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamlit Demo",
+          "description": "by Luke Posey (#App, #Code)",
+          "children": []
+        }
+      ],
+      "title": "App"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "App",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Image",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Package",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resources List",
+          "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2279
+          }
+        }
+      ],
+      "title": "Awesome-Streamlit.org"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Streamlit-components-demo Code",
+          "description": "(#Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T21:54:40Z",
+            "owner": "virusvn",
+            "repo": "streamlit-components-demo",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mining and Classifying Medical Text Documents",
+          "description": "by Georgi Tancev (#App, #Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T18:36:13Z",
+            "owner": "gtancev",
+            "repo": "Medical-Language-Model-Learner",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "This repo is maintained by me :-)\nI'm Marc, Skov, Madsen, PhD, CFA®, Lead Data Scientist Developer at Ørsted\nYou can learn more about me at datamodelsanalytics.com\n\nI try my best to govern and maintain this project in the spirit of the Zen of Python.\nBut i'm not an experienced open source maintainer so helpfull suggestions are appreciated.\nThanks",
+      "items": [],
+      "title": "Governance"
+    },
+    {
+      "description": "GitHub Issues and Pull requests are very welcome!\nIf you believe Awesome Streamlit is awesome and would like to join as a Core Developer feel free to reach out via datamodelsanalytics.com",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Please sign up to and participate in the community at discuss.streamlit.io",
+      "items": [],
+      "title": "How to contribute to the Streamlit Community"
+    },
+    {
+      "description": "Please contribute to improving the Streamlit package at GitHub/streamlit/streamlit",
+      "items": [],
+      "title": "How to contribute to the Streamlit Package"
+    },
+    {
+      "description": "If you would like to sponsor my time or the infrastructure the platform is running on, feel free to reach out via datamodelsanalytics.com.\nYou can also appreciate the work I have already done if you\n\nThanks\nMarc",
+      "items": [],
+      "title": "How to sponsor the Awesome Streamlit project"
+    },
+    {
+      "description": "Attribution-ShareAlike 4.0 International",
+      "items": [],
+      "title": "LICENSE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started with the Awesome Streamlit Repository"
+    },
+    {
+      "description": "Clone the repo\ncd into the project root folder",
+      "items": [],
+      "title": "Installation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Create virtual environment"
+    },
+    {
+      "description": "Then you should create a virtual environment named .venv\nand activate the environment.\nOn Linux, OsX or in a Windows Git Bash terminal it's\nor alternatively\nIn a Windows terminal it's",
+      "items": [],
+      "title": "via python"
+    },
+    {
+      "description": "Create virtual environment named awesome-streamlit\nand activate environment.\nIf you are on windows you need to install some things required by GeoPandas by following these instructions.\nThen you should install the local requirements\nFinally you need to install some spacy dependencies",
+      "items": [],
+      "title": "or via anaconda"
+    },
+    {
+      "description": "or as a Docker container via",
+      "items": [],
+      "title": "Build and run the Application Locally"
+    },
+    {
+      "description": "If you don't wan't to clone the repo and build the docker container you can just use to run the image from Dockerhub\nTo run bash interactively\nTo run the streamlit interactively on port 80",
+      "items": [],
+      "title": "Run the Application using the image on Dockerhub"
+    },
+    {
+      "description": "We use",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mypy",
+          "description": "for static type checking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:21:12Z",
+            "owner": "python",
+            "repo": "mypy",
+            "stars": 20591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest",
+          "description": "for unit to functional tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:38:35Z",
+            "owner": "pytest-dev",
+            "repo": "pytest",
+            "stars": 14410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoflake",
+          "description": "to remove unused imports and unused variables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T05:52:27Z",
+            "owner": "PyCQA",
+            "repo": "autoflake",
+            "stars": 953
+          }
+        }
+      ],
+      "title": "Code quality and Tests"
+    },
+    {
+      "description": "I've created a first version of an awesome streamlit test runner. You run it via\nor in Docker\n",
+      "items": [],
+      "title": "Streamlit Tests"
+    },
+    {
+      "description": "We use the power of Invoke to semi-automate the local workflow. You can see the list of available commands using",
+      "items": [],
+      "title": "Workflow"
+    },
+    {
+      "description": "You can configure the app in the file.\nPlease note that Streamlit has its own config files in the folder.",
+      "items": [],
+      "title": "Configuration"
+    },
+    {
+      "description": "You can build the package using\nIf you wan't to publish the package to PyPi you should first\nupdate the version number in the setup.py file. The format is . For example\nThen you run\nFor more info see the package README.md",
+      "items": [],
+      "title": "The Awesome-Streamlit Package"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:05.686Z",
+    "original_repository": "MarcSkovMadsen/awesome-streamlit",
+    "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
+    "enhanced_repository": "enhansome/enhansome-streamlit",
+    "enhanced_repository_description": null,
+    "title": "Awesome Streamlit with stars"
+  }
+}
