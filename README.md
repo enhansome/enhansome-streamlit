@@ -4,16 +4,16 @@
 
 > The fastest way to build **Awesome Tools and Apps**! Powered by **Python**!
 
-The purpose of this project is to share knowledge on how Awesome [Streamlit](https://streamlit.io/) is and can become. [Pull requests](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 are very welcome!
+The purpose of this project is to share knowledge on how Awesome [Streamlit](https://streamlit.io/) is and can become. [Pull requests](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 are very welcome!
 
 Streamlit has just been [announced](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) (Oct 2019) but I see the potential of becoming the **Iphone of Data Science Apps**. And maybe it can even become the Iphone of Technical Writing, Code, Micro Apps and Python.
 
 This project provides
 
-* A curated [list](https://github.com/MarcSkovMadsen/awesome-streamlit#awesome-resources) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 of Awesome Streamlit **resources**. See below.
-* A [**vision**](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/AWESOME-STREAMLIT.md) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 on how awesome Streamlit is and can become.
+* A curated [list](https://github.com/MarcSkovMadsen/awesome-streamlit#awesome-resources) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 of Awesome Streamlit **resources**. See below.
+* A [**vision**](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/AWESOME-STREAMLIT.md) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 on how awesome Streamlit is and can become.
 * An [**awesome Streamlit application**](https://awesome-streamlit.org) with a **gallery** of Awesome Streamlit Apps.
-  * Feel free to add your awesome app to the gallery via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25. It's easy (see below).
+  * Feel free to add your awesome app to the gallery via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25. It's easy (see below).
 * A **best practices** example and **starter template** of an awesome, multipage app with an automated CI/ CD pipeline, deployed to the cloud and running in a Docker container.
 
 Visit the app at [awesome-streamlit.org](https://awesome-streamlit.org)!
@@ -30,7 +30,7 @@ Afterwards you can go to the [Streamlit docs](https://streamlit.io/docs/) to get
 
 ## Awesome Resources
 
-A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,992 | 🐛 26 | 🌐 Python | 📅 2026-08-05 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 574 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
+A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,151 | 🐛 27 | 🌐 Python | 📅 2026-08-05 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 574 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
 
 ### Alternative
 
@@ -58,12 +58,12 @@ A curated list of awesome streamlit resources. Inspired by [awesome-python](http
 
 ### Awesome-Streamlit.org
 
-* [App](https://awesome-streamlit.org) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
-* [Docker Image](https://cloud.docker.com/u/marcskovmadsen/repository/docker/marcskovmadsen/awesome-streamlit) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
-* [Docs](https://awesome-streamlit.readthedocs.io/en/latest/) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
-* [Python Package](https://pypi.org/project/awesome-streamlit/) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
-* [Repo](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
-* [Resources List](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [App](https://awesome-streamlit.org) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [Docker Image](https://cloud.docker.com/u/marcskovmadsen/repository/docker/marcskovmadsen/awesome-streamlit) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [Docs](https://awesome-streamlit.readthedocs.io/en/latest/) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [Python Package](https://pypi.org/project/awesome-streamlit/) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [Repo](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
+* [Resources List](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 (#Awesome-Streamlit.org)
 * [LinkedIn post that started awesome-streamlit.org](https://www.linkedin.com/feed/update/urn:li:activity:6586497522896818176) (#Awesome-Streamlit.org, #Social)
 
 ### Code
@@ -153,24 +153,24 @@ Thanks
 
 ## Contribute
 
-GitHub [Issues](https://github.com/MarcSkovMadsen/awesome-streamlit/issues) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 and [Pull requests](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 are very welcome!
+GitHub [Issues](https://github.com/MarcSkovMadsen/awesome-streamlit/issues) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 and [Pull requests](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 are very welcome!
 
 If you believe Awesome Streamlit is awesome and would like to join as a Core Developer feel free to reach out via [datamodelsanalytics.com](https://datamodelsanalytics.com)
 
 ### How to contribute awesome links
 
-The best way to contribute an awesome link is via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
+The best way to contribute an awesome link is via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
 
 In the pull request you should
 
 * describe why your contribution is awesome and should be included.
-* add your resource the list of RESOURCES in the [package/awesome\_streamlit/database/resources.py](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package/awesome_streamlit/database/resources.py) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 file.
+* add your resource the list of RESOURCES in the [package/awesome\_streamlit/database/resources.py](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package/awesome_streamlit/database/resources.py) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 file.
 
 Thanks.
 
 ### How to contribute awesome apps
 
-The best way to contribute an awesome app is via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
+The best way to contribute an awesome app is via a [Pull request](https://github.com/MarcSkovMadsen/awesome-streamlit/pulls) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
 
 In the pull request you should
 
@@ -201,11 +201,11 @@ if __name__ == "__main__":
     main()
 ```
 
-* update the [requirements\_base.txt](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/requirements_base.txt) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 file.
+* update the [requirements\_base.txt](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/requirements_base.txt) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 file.
   Please specify the required versions.
 * Please note magic in sub pages does not work. So **don't use magic**.
 * add the `your_app_name` to the
-  * list of APPS\_IN\_GALLERY in the [package\awesome\_streamlit\database\apps\_in\_gallery.py](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package\awesome_streamlit\database\apps_in_gallery.py) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
+  * list of APPS\_IN\_GALLERY in the [package\awesome\_streamlit\database\apps\_in\_gallery.py](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package\awesome_streamlit\database\apps_in_gallery.py) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25.
 * Run the automated tests using `invoke test.all` and fix all errors from your app
 * Run the full app via `streamlit run app.py` and manually test your contribution.
 
@@ -221,7 +221,7 @@ Please sign up to and participate in the community at [discuss.streamlit.io](htt
 
 ### How to contribute to the Streamlit Package
 
-Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,547 | 🐛 1,208 | 🌐 Python | 📅 2026-08-14
+Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,553 | 🐛 1,210 | 🌐 Python | 📅 2026-08-15
 
 ### How to contribute to Streamlit.io
 
@@ -245,7 +245,7 @@ Marc
 
 ## LICENSE
 
-[Attribution-ShareAlike 4.0 International](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/license.md) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
+[Attribution-ShareAlike 4.0 International](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/license.md) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
 
 ## Getting Started with the Awesome Streamlit Repository
 
@@ -368,8 +368,8 @@ docker run -it -p 80:80 --entrypoint "streamlit" marcskovmadsen/awesome-streamli
 
 We use
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,594 | 🐛 3,179 | 🌐 Python | 📅 2026-08-14 for static type checking
-* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,420 | 🐛 811 | 🌐 Python | 📅 2026-08-12 for unit to functional tests
+* [mypy](https://github.com/python/mypy) ⭐ 20,594 | 🐛 3,182 | 🌐 Python | 📅 2026-08-15 for static type checking
+* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,422 | 🐛 812 | 🌐 Python | 📅 2026-08-15 for unit to functional tests
 * [autoflake](https://github.com/myint/autoflake) ⭐ 953 | 🐛 46 | 🌐 Python | 📅 2026-07-30 to remove unused imports and unused variables
 * [isort](https://pypi.org/project/isort/) for sorting import statements
 * [black](https://pypi.org/project/black/) the opinionated code formatter
@@ -433,7 +433,7 @@ Please note that Streamlit has its own config files in the `~/.streamlit` folder
 The application is
 
 * build as a Docker image and tested via Azure Pipelines builds
-  * You find the Dockerfiles [here](https://github.com/MarcSkovMadsen/awesome-streamlit/tree/master/devops/docker) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 and the Azure pipelines yml files [here](https://github.com/MarcSkovMadsen/awesome-streamlit/tree/master/devops/azure-pipelines) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
+  * You find the Dockerfiles [here](https://github.com/MarcSkovMadsen/awesome-streamlit/tree/master/devops/docker) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 and the Azure pipelines yml files [here](https://github.com/MarcSkovMadsen/awesome-streamlit/tree/master/devops/azure-pipelines) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
 
 ![Azure Pipelines](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/azure-pipeline.png?raw=true)
 
@@ -468,7 +468,7 @@ Then you run
 twine upload dist/awesome-streamlit-YYYYmmdd.version.tar.gz -u <the-pypi-username> -p <the-pypi-password>
 ```
 
-For more info see the package [README.md](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package/README.md) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
+For more info see the package [README.md](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/package/README.md) ⭐ 2,280 | 🐛 31 | 🌐 HTML | 📅 2023-05-25
 
 ### Project Layout
 
@@ -553,4 +553,4 @@ We place our tests in a `test` folder in the root folder organized with folders 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

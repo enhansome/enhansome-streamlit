@@ -92,7 +92,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2279
+            "stars": 2280
           }
         }
       ],
@@ -278,7 +278,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:20:26Z",
+            "last_commit": "2026-08-15T03:51:34Z",
             "owner": "python",
             "repo": "mypy",
             "stars": 20594
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:38:35Z",
+            "last_commit": "2026-08-15T19:56:35Z",
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14420
+            "stars": 14422
           }
         },
         {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:58:44.528Z",
+    "last_updated": "2026-08-15T22:57:34.841Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
     "enhanced_repository": "enhansome/enhansome-streamlit",
