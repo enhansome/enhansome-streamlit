@@ -24,7 +24,7 @@
             "last_commit": "2023-09-08T07:16:35Z",
             "owner": "Jcharis",
             "repo": "Streamlit_DataScience_Apps",
-            "stars": 629
+            "stars": 630
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2023-05-25T17:22:46Z",
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2281
+            "stars": 2282
           }
         }
       ],
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:57:28Z",
+            "last_commit": "2026-08-18T20:08:09Z",
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14423
+            "stars": 14426
           }
         },
         {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:59:19.148Z",
+    "last_updated": "2026-08-18T22:59:31.789Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
     "enhanced_repository": "enhansome/enhansome-streamlit",
