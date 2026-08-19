@@ -30,7 +30,7 @@ Afterwards you can go to the [Streamlit docs](https://streamlit.io/docs/) to get
 
 ## Awesome Resources
 
-A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,858 | 🐛 18 | 🌐 Python | 📅 2026-08-16 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 574 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
+A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,963 | 🐛 18 | 🌐 Python | 📅 2026-08-16 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 574 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
 
 ### Alternative
 
@@ -221,7 +221,7 @@ Please sign up to and participate in the community at [discuss.streamlit.io](htt
 
 ### How to contribute to the Streamlit Package
 
-Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,573 | 🐛 1,187 | 🌐 Python | 📅 2026-08-19
+Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,574 | 🐛 1,186 | 🌐 Python | 📅 2026-08-19
 
 ### How to contribute to Streamlit.io
 
@@ -368,8 +368,8 @@ docker run -it -p 80:80 --entrypoint "streamlit" marcskovmadsen/awesome-streamli
 
 We use
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,597 | 🐛 3,189 | 🌐 Python | 📅 2026-08-19 for static type checking
-* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,429 | 🐛 810 | 🌐 Python | 📅 2026-08-19 for unit to functional tests
+* [mypy](https://github.com/python/mypy) ⭐ 20,597 | 🐛 3,188 | 🌐 Python | 📅 2026-08-19 for static type checking
+* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,429 | 🐛 814 | 🌐 Python | 📅 2026-08-19 for unit to functional tests
 * [autoflake](https://github.com/myint/autoflake) ⭐ 953 | 🐛 47 | 🌐 Python | 📅 2026-07-30 to remove unused imports and unused variables
 * [isort](https://pypi.org/project/isort/) for sorting import statements
 * [black](https://pypi.org/project/black/) the opinionated code formatter
