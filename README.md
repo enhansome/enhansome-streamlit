@@ -30,7 +30,7 @@ Afterwards you can go to the [Streamlit docs](https://streamlit.io/docs/) to get
 
 ## Awesome Resources
 
-A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,798 | 🐛 17 | 🌐 Python | 📅 2026-08-24 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 573 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
+A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,860 | 🐛 17 | 🌐 Python | 📅 2026-08-24 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 573 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-04.
 
 ### Alternative
 
@@ -41,7 +41,7 @@ A curated list of awesome streamlit resources. Inspired by [awesome-python](http
 
 ### App
 
-* [NLP Based App with Streamlit](https://github.com/Jcharis/Streamlit_DataScience_Apps/tree/master/NLP_App_with_Streamlit_Python) ⭐ 630 | 🐛 19 | 🌐 HTML | 📅 2023-09-08 by [Jesse E. Agbe (JCharis)](https://github.com/Jcharis) (#App, #Code)
+* [NLP Based App with Streamlit](https://github.com/Jcharis/Streamlit_DataScience_Apps/tree/master/NLP_App_with_Streamlit_Python) ⭐ 631 | 🐛 19 | 🌐 HTML | 📅 2023-09-08 by [Jesse E. Agbe (JCharis)](https://github.com/Jcharis) (#App, #Code)
 * [How to create and deploy data exploration web app easily using python](https://github.com/robmarkcole/mqtt-camera-streamer) ⭐ 248 | 🐛 17 | 🌐 Python | 📅 2024-08-12 (#App, #Code, #Deployment)
 * [Kaggle Mushrooms Dashboard](https://github.com/pierpaolo28/Data-Visualization/tree/master/Streamlit) ⭐ 162 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-01-04 (#App)
 * [Deploying web apps with Streamlit, Docker, and AWS](https://github.com/collinprather/streamlit-docker/tree/docker-compose+postgres) ⭐ 93 | 🐛 3 | 🌐 Python | 📅 2024-08-12 by [Collin Prather](https://github.com/collinprather) (#App, #Code)
@@ -221,7 +221,7 @@ Please sign up to and participate in the community at [discuss.streamlit.io](htt
 
 ### How to contribute to the Streamlit Package
 
-Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,602 | 🐛 1,193 | 🌐 Python | 📅 2026-08-24
+Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 45,604 | 🐛 1,193 | 🌐 Python | 📅 2026-08-24
 
 ### How to contribute to Streamlit.io
 
@@ -368,8 +368,8 @@ docker run -it -p 80:80 --entrypoint "streamlit" marcskovmadsen/awesome-streamli
 
 We use
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,599 | 🐛 3,199 | 🌐 Python | 📅 2026-08-24 for static type checking
-* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,441 | 🐛 810 | 🌐 Python | 📅 2026-08-24 for unit to functional tests
+* [mypy](https://github.com/python/mypy) ⭐ 20,599 | 🐛 3,201 | 🌐 Python | 📅 2026-08-24 for static type checking
+* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,441 | 🐛 812 | 🌐 Python | 📅 2026-08-24 for unit to functional tests
 * [autoflake](https://github.com/myint/autoflake) ⭐ 952 | 🐛 42 | 🌐 Python | 📅 2026-08-23 to remove unused imports and unused variables
 * [isort](https://pypi.org/project/isort/) for sorting import statements
 * [black](https://pypi.org/project/black/) the opinionated code formatter

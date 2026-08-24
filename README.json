@@ -75,7 +75,7 @@
                 "last_commit": "2023-09-08T07:16:35Z",
                 "owner": "Jcharis",
                 "repo": "Streamlit_DataScience_Apps",
-                "stars": 630
+                "stars": 631
               }
             },
             {
@@ -388,7 +388,7 @@
                 "archived": false,
                 "id": 37489525,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:09:25Z",
+                "last_commit": "2026-08-24T21:30:06Z",
                 "owner": "pytest-dev",
                 "repo": "pytest",
                 "stars": 14441
@@ -448,7 +448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:58.713Z",
+    "last_updated": "2026-08-24T23:00:47.996Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_id": 213096950,
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
