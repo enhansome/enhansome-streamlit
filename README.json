@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "description": "Visit the app at awesome-streamlit.org!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A curated list",
+          "description": "of Awesome Streamlit resources. See below.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213096950,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A vision",
+          "description": "on how awesome Streamlit is and can become.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213096950,
+            "language": "HTML",
+            "last_commit": "2023-05-25T17:22:46Z",
+            "owner": "MarcSkovMadsen",
+            "repo": "awesome-streamlit",
+            "stars": 2282
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "An awesome Streamlit application",
+          "description": "with a gallery of Awesome Streamlit Apps.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Feel free to add your awesome app to the gallery via a Pull request",
+              "description": ". It's easy (see below).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213096950,
+                "language": "HTML",
+                "last_commit": "2023-05-25T17:22:46Z",
+                "owner": "MarcSkovMadsen",
+                "repo": "awesome-streamlit",
+                "stars": 2282
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "A curated list of awesome streamlit resources. Inspired by awesome-python and awesome-pandas.",
       "items": [
         {
@@ -84,7 +142,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -99,7 +157,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -114,7 +172,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -129,7 +187,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -144,7 +202,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -159,7 +217,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             }
           ],
@@ -203,6 +261,28 @@
           "description": null,
           "node_type": "group",
           "title": "Code"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Host Streamlit on Heroku with Nginx basic authentication",
+              "description": "by Alexandre Domingues (#Code, #Guide)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231081916,
+                "language": "HTML",
+                "last_commit": "2022-12-08T03:22:19Z",
+                "owner": "Taxuspt",
+                "repo": "heroku_streamlit_nginx",
+                "stars": 79
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Guide"
         }
       ],
       "title": "Awesome Resources"
@@ -210,6 +290,28 @@
     {
       "description": "GitHub Issues and Pull requests are very welcome!\nIf you believe Awesome Streamlit is awesome and would like to join as a Core Developer feel free to reach out via datamodelsanalytics.com",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "add your resource the list of RESOURCES in the package/awesome_streamlit/database/resources.py",
+              "description": "file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213096950,
+                "language": "HTML",
+                "last_commit": "2023-05-25T17:22:46Z",
+                "owner": "MarcSkovMadsen",
+                "repo": "awesome-streamlit",
+                "stars": 2282
+              }
+            }
+          ],
+          "description": "The best way to contribute an awesome link is via a Pull request.\nIn the pull request you should\nThanks.",
+          "node_type": "group",
+          "title": "How to contribute awesome links"
+        },
         {
           "children": [
             {
@@ -224,7 +326,7 @@
                 "last_commit": "2023-05-25T17:22:46Z",
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2281
+                "stars": 2282
               }
             },
             {
@@ -244,7 +346,7 @@
                     "last_commit": "2023-05-25T17:22:46Z",
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
-                    "stars": 2281
+                    "stars": 2282
                   }
                 }
               ]
@@ -271,7 +373,7 @@
                 "archived": false,
                 "id": 7053637,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:21:45Z",
+                "last_commit": "2026-08-24T08:56:19Z",
                 "owner": "python",
                 "repo": "mypy",
                 "stars": 20599
@@ -286,10 +388,10 @@
                 "archived": false,
                 "id": 37489525,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:33:25Z",
+                "last_commit": "2026-08-24T04:09:25Z",
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14437
+                "stars": 14441
               }
             },
             {
@@ -311,13 +413,42 @@
           "description": "We use\nto ensure a high quality of our code and application.\nYou can run all tests using",
           "node_type": "group",
           "title": "Code quality and Tests"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "build as a Docker image and tested via Azure Pipelines builds",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "You find the Dockerfiles here",
+                  "description": "and the Azure pipelines yml files here",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213096950,
+                    "language": "HTML",
+                    "last_commit": "2023-05-25T17:22:46Z",
+                    "owner": "MarcSkovMadsen",
+                    "repo": "awesome-streamlit",
+                    "stars": 2282
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "The application is",
+          "node_type": "group",
+          "title": "CI/ CD and Hosting"
         }
       ],
       "title": "Getting Started with the Awesome Streamlit Repository"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:57:24.795Z",
+    "last_updated": "2026-08-24T14:02:58.713Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_id": 213096950,
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
