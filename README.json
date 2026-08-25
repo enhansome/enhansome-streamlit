@@ -162,7 +162,7 @@
             },
             {
               "node_type": "item",
-              "title": "Docs",
+              "title": "Awesome-Streamlit.org",
               "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
               "children": [],
               "repo_info": {
@@ -192,7 +192,7 @@
             },
             {
               "node_type": "item",
-              "title": "Repo",
+              "title": "MarcSkovMadsen/awesome-streamlit",
               "description": "by Awesome-Streamlit.org (#Awesome-Streamlit.org)",
               "children": [],
               "repo_info": {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-24T08:56:19Z",
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20599
+                "stars": 20602
               }
             },
             {
@@ -448,7 +448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:00:47.996Z",
+    "last_updated": "2026-08-25T05:56:00.794Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_id": 213096950,
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
