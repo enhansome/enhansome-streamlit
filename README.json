@@ -373,10 +373,10 @@
                 "archived": false,
                 "id": 7053637,
                 "language": "Python",
-                "last_commit": "2026-08-25T10:25:46Z",
+                "last_commit": "2026-08-27T06:38:24Z",
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20605
+                "stars": 20607
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-26T09:25:47Z",
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14446
+                "stars": 14447
               }
             },
             {
@@ -448,9 +448,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:33:40.755Z",
-    "original_repository": "MarcSkovMadsen/awesome-streamlit",
-    "original_repository_id": 213096950,
+    "last_updated": "2026-08-27T12:08:15.168Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 213096950,
+      "language": "HTML",
+      "last_commit": "2023-05-25T17:22:46Z",
+      "owner": "MarcSkovMadsen",
+      "repo": "awesome-streamlit",
+      "stars": 2282
+    },
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
     "enhanced_repository": "enhansome/enhansome-streamlit",
     "enhanced_repository_description": null,
