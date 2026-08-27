@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-25T10:25:46Z",
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20603
+                "stars": 20605
               }
             },
             {
@@ -388,10 +388,10 @@
                 "archived": false,
                 "id": 37489525,
                 "language": "Python",
-                "last_commit": "2026-08-25T07:38:08Z",
+                "last_commit": "2026-08-26T09:25:47Z",
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14442
+                "stars": 14446
               }
             },
             {
@@ -448,7 +448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:02:01.013Z",
+    "last_updated": "2026-08-27T03:33:40.755Z",
     "original_repository": "MarcSkovMadsen/awesome-streamlit",
     "original_repository_id": 213096950,
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
