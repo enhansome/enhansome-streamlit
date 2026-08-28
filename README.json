@@ -16,7 +16,8 @@
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
             "stars": 2282
-          }
+          },
+          "first_seen": "2026-08-28T06:20:57.709Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
             "stars": 2282
-          }
+          },
+          "first_seen": "2026-08-28T06:20:57.709Z"
         },
         {
           "node_type": "group",
@@ -51,7 +53,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ]
         }
@@ -76,7 +79,8 @@
                 "owner": "Jcharis",
                 "repo": "Streamlit_DataScience_Apps",
                 "stars": 631
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "robmarkcole",
                 "repo": "mqtt-camera-streamer",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "pierpaolo28",
                 "repo": "Data-Visualization",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "collinprather",
                 "repo": "streamlit-docker",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": null,
@@ -143,7 +150,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "virusvn",
                 "repo": "streamlit-components-demo",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "gtancev",
                 "repo": "Medical-Language-Model-Learner",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "Taxuspt",
                 "repo": "heroku_streamlit_nginx",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": null,
@@ -305,7 +321,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": "The best way to contribute an awesome link is via a Pull request.\nIn the pull request you should\nThanks.",
@@ -327,7 +344,8 @@
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "group",
@@ -347,7 +365,8 @@
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
                     "stars": 2282
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:20:57.709Z"
                 }
               ]
             }
@@ -373,11 +392,12 @@
                 "archived": false,
                 "id": 7053637,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:38:24Z",
+                "last_commit": "2026-08-28T01:13:53Z",
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20607
-              }
+                "stars": 20615
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -388,11 +408,12 @@
                 "archived": false,
                 "id": 37489525,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:25:47Z",
+                "last_commit": "2026-08-27T19:55:51Z",
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14447
-              }
+                "stars": 14453
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             },
             {
               "node_type": "item",
@@ -407,7 +428,8 @@
                 "owner": "PyCQA",
                 "repo": "autoflake",
                 "stars": 952
-              }
+              },
+              "first_seen": "2026-08-28T06:20:57.709Z"
             }
           ],
           "description": "We use\nto ensure a high quality of our code and application.\nYou can run all tests using",
@@ -434,7 +456,8 @@
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
                     "stars": 2282
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:20:57.709Z"
                 }
               ]
             }
@@ -448,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:15.168Z",
+    "last_updated": "2026-08-28T06:20:57.709Z",
     "original_repository_info": {
       "archived": false,
       "id": 213096950,
