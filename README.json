@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+            "homepage": "https://awesome-streamlit.org",
             "id": 213096950,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-05-25T17:22:46Z",
+            "open_issues": 31,
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2282
+            "stars": 2282,
+            "topics": [
+              "analytics",
+              "apps",
+              "awesome-list",
+              "data",
+              "data-science",
+              "exploration",
+              "finance",
+              "fun",
+              "innovation",
+              "machine-learning",
+              "mathematics",
+              "models",
+              "python",
+              "streamlit",
+              "trading"
+            ]
           },
           "first_seen": "2026-08-28T06:20:57.709Z"
         },
@@ -26,12 +47,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+            "homepage": "https://awesome-streamlit.org",
             "id": 213096950,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-05-25T17:22:46Z",
+            "open_issues": 31,
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2282
+            "stars": 2282,
+            "topics": [
+              "analytics",
+              "apps",
+              "awesome-list",
+              "data",
+              "data-science",
+              "exploration",
+              "finance",
+              "fun",
+              "innovation",
+              "machine-learning",
+              "mathematics",
+              "models",
+              "python",
+              "streamlit",
+              "trading"
+            ]
           },
           "first_seen": "2026-08-28T06:20:57.709Z"
         },
@@ -47,12 +89,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -73,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streamlit Data Science and ML Apps in Python",
+                "homepage": null,
                 "id": 216215996,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-09-08T07:16:35Z",
+                "open_issues": 19,
                 "owner": "Jcharis",
                 "repo": "Streamlit_DataScience_Apps",
-                "stars": 631
+                "stars": 631,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -89,12 +157,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream images from a connected camera over MQTT, view using Streamlit, record to file and sqlite",
+                "homepage": null,
                 "id": 198009047,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-12T19:17:40Z",
+                "open_issues": 17,
                 "owner": "robmarkcole",
                 "repo": "mqtt-camera-streamer",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "camera",
+                  "home-automation",
+                  "mqtt",
+                  "sqlite",
+                  "streamlit"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -105,12 +184,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of interactive Jupiter Notebook widgets and graphs.",
+                "homepage": "https://pierpaolo28.github.io/work.html",
                 "id": 191421450,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-01-04T08:22:58Z",
+                "open_issues": 5,
                 "owner": "pierpaolo28",
                 "repo": "Data-Visualization",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -121,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bare bones use-case for deploying a containerized web app (built in streamlit) on AWS. ",
+                "homepage": null,
                 "id": 242856823,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-12T18:36:54Z",
+                "open_issues": 3,
                 "owner": "collinprather",
                 "repo": "streamlit-docker",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -144,12 +239,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -160,12 +276,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -176,12 +313,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -192,12 +350,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -208,12 +387,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -224,12 +424,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -247,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An application demo Streamlit's components",
+                "homepage": "http://streamlit.fullstackstation.com",
                 "id": 214095005,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-14T21:54:40Z",
+                "open_issues": 6,
                 "owner": "virusvn",
                 "repo": "streamlit-components-demo",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -263,12 +489,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This application guides you through the development of a language model that classifies clinical documents according to their medical speciality.",
+                "homepage": "http://ml-ml.herokuapp.com/",
                 "id": 217983585,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-12T18:36:13Z",
+                "open_issues": 1,
                 "owner": "gtancev",
                 "repo": "Medical-Language-Model-Learner",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "language-model",
+                  "natural-language-processing",
+                  "scikit-learn",
+                  "streamlit"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -286,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example project showing how to host multiple streamlit apps on Heroku behind a nginx proxy with authentication",
+                "homepage": null,
                 "id": 231081916,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-12-08T03:22:19Z",
+                "open_issues": 5,
                 "owner": "Taxuspt",
                 "repo": "heroku_streamlit_nginx",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -315,12 +556,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -338,12 +600,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                "homepage": "https://awesome-streamlit.org",
                 "id": 213096950,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-05-25T17:22:46Z",
+                "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "analytics",
+                  "apps",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "exploration",
+                  "finance",
+                  "fun",
+                  "innovation",
+                  "machine-learning",
+                  "mathematics",
+                  "models",
+                  "python",
+                  "streamlit",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -359,12 +642,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                    "homepage": "https://awesome-streamlit.org",
                     "id": 213096950,
                     "language": "HTML",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2023-05-25T17:22:46Z",
+                    "open_issues": 31,
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
-                    "stars": 2282
+                    "stars": 2282,
+                    "topics": [
+                      "analytics",
+                      "apps",
+                      "awesome-list",
+                      "data",
+                      "data-science",
+                      "exploration",
+                      "finance",
+                      "fun",
+                      "innovation",
+                      "machine-learning",
+                      "mathematics",
+                      "models",
+                      "python",
+                      "streamlit",
+                      "trading"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:20:57.709Z"
                 }
@@ -390,12 +694,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optional static typing for Python",
+                "homepage": "https://www.mypy-lang.org/",
                 "id": 7053637,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T01:13:53Z",
+                "open_issues": 3212,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20615
+                "stars": 20615,
+                "topics": [
+                  "linter",
+                  "python",
+                  "typechecker",
+                  "types",
+                  "typing"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -406,12 +721,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+                "homepage": "https://pytest.org",
                 "id": 37489525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:55:51Z",
+                "open_issues": 807,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14453
+                "stars": 14457,
+                "topics": [
+                  "hacktoberfest",
+                  "python",
+                  "test",
+                  "testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             },
@@ -422,12 +748,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Removes unused imports and unused variables as reported by pyflakes",
+                "homepage": "https://pypi.org/project/autoflake/",
                 "id": 7335450,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T02:29:56Z",
+                "open_issues": 43,
                 "owner": "PyCQA",
                 "repo": "autoflake",
-                "stars": 952
+                "stars": 952,
+                "topics": [
+                  "formatter",
+                  "hacktoberfest",
+                  "linter",
+                  "pyflakes",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
             }
@@ -450,12 +787,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+                    "homepage": "https://awesome-streamlit.org",
                     "id": 213096950,
                     "language": "HTML",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2023-05-25T17:22:46Z",
+                    "open_issues": 31,
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
-                    "stars": 2282
+                    "stars": 2282,
+                    "topics": [
+                      "analytics",
+                      "apps",
+                      "awesome-list",
+                      "data",
+                      "data-science",
+                      "exploration",
+                      "finance",
+                      "fun",
+                      "innovation",
+                      "machine-learning",
+                      "mathematics",
+                      "models",
+                      "python",
+                      "streamlit",
+                      "trading"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:20:57.709Z"
                 }
@@ -471,15 +829,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:20:57.709Z",
+    "last_updated": "2026-08-29T03:52:22.490Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+      "homepage": "https://awesome-streamlit.org",
       "id": 213096950,
       "language": "HTML",
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2023-05-25T17:22:46Z",
+      "open_issues": 31,
       "owner": "MarcSkovMadsen",
       "repo": "awesome-streamlit",
-      "stars": 2282
+      "stars": 2282,
+      "topics": [
+        "analytics",
+        "apps",
+        "awesome-list",
+        "data",
+        "data-science",
+        "exploration",
+        "finance",
+        "fun",
+        "innovation",
+        "machine-learning",
+        "mathematics",
+        "models",
+        "python",
+        "streamlit",
+        "trading"
+      ]
     },
     "original_repository_sha": "58b3d5cca0ba57c1d57221bf6eaef39f4b2edc07",
     "enhanced_repository": "enhansome/enhansome-streamlit",
