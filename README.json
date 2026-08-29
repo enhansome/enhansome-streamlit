@@ -730,7 +730,7 @@
                 "open_issues": 807,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14457,
+                "stars": 14458,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -829,7 +829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:52:22.490Z",
+    "last_updated": "2026-08-29T04:25:09.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
