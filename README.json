@@ -166,7 +166,7 @@
                 "open_issues": 17,
                 "owner": "robmarkcole",
                 "repo": "mqtt-camera-streamer",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "camera",
                   "home-automation",
@@ -699,8 +699,8 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T22:02:58Z",
-                "open_issues": 3231,
+                "last_commit": "2026-09-23T15:43:38Z",
+                "open_issues": 3229,
                 "owner": "python",
                 "repo": "mypy",
                 "stars": 20648,
@@ -726,11 +726,11 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:29:09Z",
-                "open_issues": 831,
+                "last_commit": "2026-09-23T07:29:42Z",
+                "open_issues": 828,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14521,
+                "stars": 14525,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -757,7 +757,7 @@
                 "open_issues": 45,
                 "owner": "PyCQA",
                 "repo": "autoflake",
-                "stars": 953,
+                "stars": 951,
                 "topics": [
                   "formatter",
                   "hacktoberfest",
@@ -829,7 +829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:55:52.803Z",
+    "last_updated": "2026-09-24T00:53:06.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
