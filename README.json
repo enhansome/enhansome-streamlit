@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "analytics",
               "apps",
@@ -56,7 +56,7 @@
             "open_issues": 31,
             "owner": "MarcSkovMadsen",
             "repo": "awesome-streamlit",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "analytics",
               "apps",
@@ -98,7 +98,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -248,7 +248,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -285,7 +285,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -322,7 +322,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -359,7 +359,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -396,7 +396,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -433,7 +433,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -565,7 +565,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -609,7 +609,7 @@
                 "open_issues": 31,
                 "owner": "MarcSkovMadsen",
                 "repo": "awesome-streamlit",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "analytics",
                   "apps",
@@ -651,7 +651,7 @@
                     "open_issues": 31,
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
-                    "stars": 2278,
+                    "stars": 2279,
                     "topics": [
                       "analytics",
                       "apps",
@@ -699,8 +699,8 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T15:43:38Z",
-                "open_issues": 3229,
+                "last_commit": "2026-09-24T23:15:55Z",
+                "open_issues": 3235,
                 "owner": "python",
                 "repo": "mypy",
                 "stars": 20648,
@@ -726,11 +726,11 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T07:29:42Z",
-                "open_issues": 828,
+                "last_commit": "2026-09-24T09:16:18Z",
+                "open_issues": 833,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14525,
+                "stars": 14531,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -796,7 +796,7 @@
                     "open_issues": 31,
                     "owner": "MarcSkovMadsen",
                     "repo": "awesome-streamlit",
-                    "stars": 2278,
+                    "stars": 2279,
                     "topics": [
                       "analytics",
                       "apps",
@@ -829,7 +829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:53:06.853Z",
+    "last_updated": "2026-09-25T00:49:41.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
@@ -841,7 +841,7 @@
       "open_issues": 31,
       "owner": "MarcSkovMadsen",
       "repo": "awesome-streamlit",
-      "stars": 2278,
+      "stars": 2279,
       "topics": [
         "analytics",
         "apps",
