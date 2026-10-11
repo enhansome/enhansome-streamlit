@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Jcharis",
                 "repo": "Streamlit_DataScience_Apps",
-                "stars": 631,
+                "stars": 632,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
@@ -208,11 +208,11 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T21:37:22Z",
-                "open_issues": 3244,
+                "last_commit": "2026-10-10T21:16:45Z",
+                "open_issues": 3249,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20673,
+                "stars": 20674,
                 "topics": [
                   "linter",
                   "python",
@@ -235,11 +235,11 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T12:46:41Z",
+                "last_commit": "2026-10-11T00:50:09Z",
                 "open_issues": 842,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14583,
+                "stars": 14587,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:54:43.852Z",
+    "last_updated": "2026-10-11T01:14:36.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
