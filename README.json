@@ -208,11 +208,11 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T16:54:53Z",
-                "open_issues": 3245,
+                "last_commit": "2026-10-14T23:57:49Z",
+                "open_issues": 3242,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20683,
+                "stars": 20681,
                 "topics": [
                   "linter",
                   "python",
@@ -236,10 +236,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-13T03:51:44Z",
-                "open_issues": 850,
+                "open_issues": 853,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14593,
+                "stars": 14597,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -263,7 +263,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T17:23:47Z",
-                "open_issues": 48,
+                "open_issues": 50,
                 "owner": "PyCQA",
                 "repo": "autoflake",
                 "stars": 951,
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:23:39.223Z",
+    "last_updated": "2026-10-15T00:52:08.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
@@ -299,7 +299,7 @@
       "open_issues": 31,
       "owner": "MarcSkovMadsen",
       "repo": "awesome-streamlit",
-      "stars": 2282,
+      "stars": 2280,
       "topics": [
         "analytics",
         "apps",
