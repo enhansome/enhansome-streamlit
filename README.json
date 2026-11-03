@@ -208,11 +208,11 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T01:16:49Z",
-                "open_issues": 3257,
+                "last_commit": "2026-11-02T18:38:13Z",
+                "open_issues": 3239,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20716,
+                "stars": 20713,
                 "topics": [
                   "linter",
                   "python",
@@ -235,8 +235,8 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T19:15:17Z",
-                "open_issues": 917,
+                "last_commit": "2026-11-02T23:43:42Z",
+                "open_issues": 919,
                 "owner": "pytest-dev",
                 "repo": "pytest",
                 "stars": 14661,
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:49:11.083Z",
+    "last_updated": "2026-11-03T03:41:57.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
