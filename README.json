@@ -208,11 +208,11 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T00:07:03Z",
-                "open_issues": 3256,
+                "last_commit": "2026-11-15T23:35:10Z",
+                "open_issues": 3253,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20723,
+                "stars": 20724,
                 "topics": [
                   "linter",
                   "python",
@@ -235,11 +235,11 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-15T00:27:07Z",
-                "open_issues": 951,
+                "last_commit": "2026-11-15T18:18:18Z",
+                "open_issues": 943,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14686,
+                "stars": 14689,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -266,7 +266,7 @@
                 "open_issues": 55,
                 "owner": "PyCQA",
                 "repo": "autoflake",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "formatter",
                   "hacktoberfest",
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:07:16.725Z",
+    "last_updated": "2026-11-16T02:23:17.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
@@ -296,10 +296,10 @@
       "language": "HTML",
       "license": "CC-BY-SA-4.0",
       "last_commit": "2023-05-25T17:22:46Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "MarcSkovMadsen",
       "repo": "awesome-streamlit",
-      "stars": 2282,
+      "stars": 2281,
       "topics": [
         "analytics",
         "apps",
