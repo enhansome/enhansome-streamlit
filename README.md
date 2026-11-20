@@ -30,7 +30,7 @@ Afterwards you can go to the [Streamlit docs](https://streamlit.io/docs/) to get
 
 ## Awesome Resources
 
-A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,727 | 🐛 20 | 🌐 Python | 📅 2026-11-17 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 577 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-04.
+A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,911 | 🐛 21 | 🌐 Python | 📅 2026-11-17 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 575 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-04.
 
 ### Alternative
 
@@ -221,7 +221,7 @@ Please sign up to and participate in the community at [discuss.streamlit.io](htt
 
 ### How to contribute to the Streamlit Package
 
-Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 46,426 | 🐛 1,202 | 🌐 Python | 📅 2026-11-18
+Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 46,449 | 🐛 1,195 | 🌐 Python | 📅 2026-11-20
 
 ### How to contribute to Streamlit.io
 
@@ -368,9 +368,9 @@ docker run -it -p 80:80 --entrypoint "streamlit" marcskovmadsen/awesome-streamli
 
 We use
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,729 | 🐛 3,260 | 🌐 Python | 📅 2026-11-18 for static type checking
-* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,703 | 🐛 952 | 🌐 Python | 📅 2026-11-18 for unit to functional tests
-* [autoflake](https://github.com/myint/autoflake) ⭐ 955 | 🐛 57 | 🌐 Python | 📅 2026-11-04 to remove unused imports and unused variables
+* [mypy](https://github.com/python/mypy) ⭐ 20,729 | 🐛 3,253 | 🌐 Python | 📅 2026-11-19 for static type checking
+* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,718 | 🐛 946 | 🌐 Python | 📅 2026-11-19 for unit to functional tests
+* [autoflake](https://github.com/myint/autoflake) ⭐ 954 | 🐛 57 | 🌐 Python | 📅 2026-11-04 to remove unused imports and unused variables
 * [isort](https://pypi.org/project/isort/) for sorting import statements
 * [black](https://pypi.org/project/black/) the opinionated code formatter
 * [pylint](https://www.pylint.org/) for static analysis
@@ -553,4 +553,4 @@ We place our tests in a `test` folder in the root folder organized with folders 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
