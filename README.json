@@ -33,22 +33,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Stream images from a connected camera over MQTT, view using Streamlit, record to file and sqlite",
+                "description": "Stream images from a connected camera over MQTT, with vehicle and person detection",
                 "homepage": null,
                 "id": 198009047,
                 "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-21T19:34:03Z",
-                "open_issues": 18,
+                "license": "MIT",
+                "last_commit": "2026-11-22T13:06:47Z",
+                "open_issues": 17,
                 "owner": "robmarkcole",
                 "repo": "mqtt-camera-streamer",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "camera",
                   "home-automation",
                   "mqtt",
-                  "sqlite",
-                  "streamlit"
+                  "sqlite"
                 ]
               },
               "first_seen": "2026-08-28T06:20:57.709Z"
@@ -209,10 +208,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T15:13:05Z",
-                "open_issues": 3252,
+                "open_issues": 3256,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20734,
+                "stars": 20735,
                 "topics": [
                   "linter",
                   "python",
@@ -235,11 +234,11 @@
                 "id": 37489525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T00:26:57Z",
-                "open_issues": 948,
+                "last_commit": "2026-11-22T16:08:13Z",
+                "open_issues": 952,
                 "owner": "pytest-dev",
                 "repo": "pytest",
-                "stars": 14729,
+                "stars": 14737,
                 "topics": [
                   "hacktoberfest",
                   "python",
@@ -287,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:38:50.517Z",
+    "last_updated": "2026-11-23T03:07:04.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
