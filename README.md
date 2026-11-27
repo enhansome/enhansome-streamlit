@@ -30,7 +30,7 @@ Afterwards you can go to the [Streamlit docs](https://streamlit.io/docs/) to get
 
 ## Awesome Resources
 
-A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 337,180 | 🐛 25 | 🌐 Python | 📅 2026-11-17 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 575 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-06-04.
+A curated list of awesome streamlit resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 337,391 | 🐛 26 | 🌐 Python | 📅 2026-11-17 and [awesome-pandas](https://github.com/tommyod/awesome-pandas) ⭐ 575 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-06-04.
 
 ### Alternative
 
@@ -221,7 +221,7 @@ Please sign up to and participate in the community at [discuss.streamlit.io](htt
 
 ### How to contribute to the Streamlit Package
 
-Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 46,509 | 🐛 1,203 | 🌐 Python | 📅 2026-11-25
+Please contribute to improving the Streamlit package at [GitHub/streamlit/streamlit](https://github.com/streamlit/streamlit) ⭐ 46,517 | 🐛 1,204 | 🌐 Python | 📅 2026-11-26
 
 ### How to contribute to Streamlit.io
 
@@ -368,8 +368,8 @@ docker run -it -p 80:80 --entrypoint "streamlit" marcskovmadsen/awesome-streamli
 
 We use
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,737 | 🐛 3,257 | 🌐 Python | 📅 2026-11-24 for static type checking
-* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,764 | 🐛 956 | 🌐 Python | 📅 2026-11-25 for unit to functional tests
+* [mypy](https://github.com/python/mypy) ⭐ 20,740 | 🐛 3,268 | 🌐 Python | 📅 2026-11-26 for static type checking
+* [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,768 | 🐛 954 | 🌐 Python | 📅 2026-11-27 for unit to functional tests
 * [autoflake](https://github.com/myint/autoflake) ⭐ 954 | 🐛 57 | 🌐 Python | 📅 2026-11-04 to remove unused imports and unused variables
 * [isort](https://pypi.org/project/isort/) for sorting import statements
 * [black](https://pypi.org/project/black/) the opinionated code formatter
@@ -553,4 +553,4 @@ We place our tests in a `test` folder in the root folder organized with folders 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
